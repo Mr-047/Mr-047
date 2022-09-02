@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pratham 
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python and web development
-- 💞️ I’m looking to collaborate on....{still thinking}
+- 💻 I’m looking to collaborate on....{still thinking}
 - 📫 Pratham047@proton.me
 
 <!---
